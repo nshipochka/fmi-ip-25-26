@@ -3,3 +3,4 @@
 
 ## Topic
 01. [Introduction](./week-01/)
+02. [Variables, Conditional Operators, Switch](./week02/)
