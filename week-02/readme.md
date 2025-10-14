@@ -1,6 +1,6 @@
 ### TO DO:
 - Да направите messenger/discord/teams/slack/whatever чат/група и да ни добавите с Марти
-- [GitHub Classroom]()
+- [GitHub Classroom](https://classroom.github.com/a/IYbE5iq5)
 
 # Малко теория
 ## Променливи
