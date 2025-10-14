@@ -5,4 +5,4 @@
 
 ## Topic
 01. [Introduction](./week-01/)
-02. [Variables, Conditional Operators, Switch](./week02/)
+02. [Variables, Conditional Operators, Switch](./week-02/)
