@@ -6,4 +6,6 @@
 ## Topic
 01. [Introduction](./week-01/)
 02. [Variables, Conditional Operators, Switch](./week-02/)
-02. [Loops](./week-03/)
+03. [Loops](./week-03/)
+04. [Arrays, Pointers, Functions](./week-04/)
+05. [Practice Exam](./week-05/)
