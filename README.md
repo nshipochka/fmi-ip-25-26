@@ -3,9 +3,10 @@
 
 [Софтуерни продукти от Microsoft](https://www.fmi.uni-sofia.bg/bg/softuerni-produkti-ot-microsoft)
 
-## Topic
+## Topics
 01. [Introduction](./week-01/)
 02. [Variables, Conditional Operators, Switch](./week-02/)
 03. [Loops](./week-03/)
 04. [Arrays, Pointers, Functions](./week-04/)
 05. [Practice Exam](./week-05/)
+06. [Sorting & Searching](./week-06/)   
